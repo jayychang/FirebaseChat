@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "869792655550",
+    "firebase_url": "https://fir-messagingtest-d82dd.firebaseio.com",
+    "project_id": "fir-messagingtest-d82dd",
+    "storage_bucket": "fir-messagingtest-d82dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869792655550:android:55feed0a8762aeba",
+        "android_client_info": {
+          "package_name": "com.jay.androidfirebasechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869792655550-07pvm3rhke6iabm5p1u3m7gqihhfpg7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK75blx3aMDXXEWevy2trZ48BxSGo8GmY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
